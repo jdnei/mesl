@@ -4,9 +4,9 @@
 
 # Mesl专线机场官方地址(2026年11月日11更新)
 Mesl专线机场官网地址</br>
-最新地址：[panel.meslcloud.com](https://panel.meslcloud.com/#/register?code=xoXPahnO)</br>
-最新地址：[in.mesl.cloud](https://in.mesl.cloud/#/register?code=xoXPahnO)</br>
-官方地址：[getmesl.com](https://getmesl.com/#/register?code=xoXPahnO)</br>
+最新地址01：[panel.meslcloud.com](https://to.iix.im/mesl03)</br>
+最新地址02：[in.mesl.cloud](https://to.iix.im/mesl02)</br>
+官方地址：[getmesl.com](https://to.iix.im/mesl01)</br>
 
 2026最新好用的机场推荐与节点分享：[https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)</br>
 ## Telegram VPN 机场福利社 #AD
